@@ -1,0 +1,32 @@
+#mus{
+    padding-left: 28rem;
+    padding-top: 1rem;
+}
+.container{
+    margin-top: 2rem;
+}
+.task{
+    padding-left: 4rem;
+
+    display: flex;
+    justify-content: space-between ;
+    margin-left: 8rem;
+    margin-right    : 8rem;
+    background-color: aliceblue;
+    margin-bottom: 0.7rem;
+}
+.value{
+   
+    width: 45%;
+}
+.date{
+    padding-top: 5px;
+    font-size: 12px;
+}
+#gh{
+    padding: 15px;
+    margin: -4px;
+    background-color: pink;
+   
+    cursor: pointer;
+}
